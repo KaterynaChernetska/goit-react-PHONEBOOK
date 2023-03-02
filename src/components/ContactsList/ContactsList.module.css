@@ -1,0 +1,38 @@
+.deleteBtn{
+      /* margin-top: 20px; */
+      display: block;
+      margin: 20px auto;
+      padding: 5px 20px;
+      border-radius: 5px;
+      font-size: 15px;
+      }
+      
+      .deleteBtn:hover{
+          background-color:#ffcccc;
+      }
+
+.container{
+    display: flex;
+justify-content: center;
+background-color:#ffffff;
+border-radius: 5px;
+padding: 20px 60px 20px 60px;
+}
+
+.listItem{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.name{
+font-size: 20px;
+margin-right: 10px;
+font-weight: 500;
+}
+.number{
+    font-size: 20px;
+    margin-right: 10px;
+}
+.icon{
+    margin-right: 10px;
+}

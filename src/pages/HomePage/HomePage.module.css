@@ -1,0 +1,21 @@
+/* 
+.text{
+    text-align: center;
+    font-size: 40px;
+    color:#d2dae2;
+    padding-top: 10px;
+} */
+.hero{
+ 
+    background: url('/public/img/pexels-alex-andrews-821754.jpg');
+    filter: grayscale(90%);
+  
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

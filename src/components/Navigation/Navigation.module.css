@@ -1,0 +1,9 @@
+.navLink{
+font-size: 20px;
+display: flex;
+gap: 10px;
+}
+.navigation{
+    display: flex;
+    gap: 20px;
+}

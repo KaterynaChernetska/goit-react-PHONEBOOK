@@ -1,0 +1,14 @@
+.container{
+ 
+    background-image: url('../../../public/img/pexels-pixabay-163007.jpg');
+    filter: grayscale(90%);
+  
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

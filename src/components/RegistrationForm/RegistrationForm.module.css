@@ -1,0 +1,33 @@
+.container{
+    display: flex;
+    justify-content: center;
+    background-color: #d2dae2;
+    border-radius: 5px;
+    
+    }
+    .form{
+        padding: 20px 60px 20px 60px;
+    
+    }
+    .input{
+        padding: 10px 50px;
+        border-radius: 5px;
+        margin-bottom: 10px;
+    }
+    
+    .title{
+        text-align: center;
+        
+    }
+    .submitBtn{
+    /* margin-top: 20px; */
+    display: block;
+    margin: 20px auto;
+    padding: 5px 20px;
+    border-radius: 5px;
+    font-size: 15px;
+    }
+    
+    .submitBtn:hover{
+        background-color:#ffcccc;
+    }
